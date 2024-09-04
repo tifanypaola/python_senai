@@ -1,4 +1,4 @@
- 
+g 
 # candidato =  int(input('Informe o numero do candidato'))
 
 # if candidato == 13:

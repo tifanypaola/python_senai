@@ -4,6 +4,6 @@ numeros = []
 
 for i in range(5):
     numero = float(input(f"insira o numero {i + 1}: "))
-numero.append(numero)
+    numero.append(numero)
     soma = sum(numeros)
-    print("a soma de todos os numeros é: {soma} ")
+    print('a soma de todos os numeros é: {soma} ')
