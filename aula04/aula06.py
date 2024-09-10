@@ -95,7 +95,7 @@ g
 #        print(numero * 2)
 #        contador +=1
 
-numero = 10
-while True:
-  numero *= 10
-  print(numero)
+# numero = 10
+# while True:
+#   numero *= 10
+#   print(numero)
